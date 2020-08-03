@@ -1,6 +1,6 @@
 package com.my.assignment;
 
-public class B_Solution2 {
+public class B_Solution2{
 
 }	
 
