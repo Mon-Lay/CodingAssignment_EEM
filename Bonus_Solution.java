@@ -1,6 +1,6 @@
 package com.my.assignment;
 
-public class Bonus_Solution {
+public class Bonus_Solution{
 
 	/*
 	   1 answer is Myanmar : aww-e-e-ouk 
