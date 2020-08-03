@@ -4,7 +4,7 @@ public class D_Solution2 {
 
 }
 
-class Caterpillar{
+class Caterpillar {
 	boolean fly = false;
 	boolean walk = true;
 }
