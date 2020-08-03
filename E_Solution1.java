@@ -1,6 +1,6 @@
 package com.my.assignment;
 
-public class E_Solution1 {
+public class E_Solution1{
 
 	/*
 	  a answer is 4.
