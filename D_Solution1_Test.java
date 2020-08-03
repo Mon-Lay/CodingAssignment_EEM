@@ -7,7 +7,7 @@ import org.junit.Test;
 public class D_Solution1_Test {
 
 	@Test 
-	public void butterfly(){
+	public void butterfly() {
 		Butterfly butterfly = new Butterfly();
 		assertEquals(true, butterfly.fly);
 		assertEquals(false, butterfly.sound);
