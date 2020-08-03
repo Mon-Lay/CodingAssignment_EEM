@@ -4,7 +4,7 @@ public class D_Solution1 {
 
 }
 
-class Butterfly{
+class Butterfly {
 	boolean fly = true;
 	boolean sound = false;
 }
