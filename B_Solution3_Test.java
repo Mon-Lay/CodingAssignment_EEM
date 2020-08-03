@@ -7,7 +7,7 @@ import org.junit.Test;
 public class B_Solution3_Test {
 
 	@Test 
-	public void dolphin(){
+	public void dolphin() {
 		Dolphin dolphin = new Dolphin();
 		assertEquals(true, dolphin.swim);
 	}
