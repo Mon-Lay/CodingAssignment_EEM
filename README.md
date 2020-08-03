@@ -1,6 +1,6 @@
 # CodingAssignment_EEM
 
-#Explaining for separte commit
+#Explaining for separate commit
 
 In Add Class for Question A No 1 have 2 classes:
   1. A_Solution1.java          : Solution java file 
