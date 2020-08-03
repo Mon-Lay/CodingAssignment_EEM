@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class B_Solution1_Test {
+public class B_Solution1_Test{
 
 	@Test 
 	public void fish(){
