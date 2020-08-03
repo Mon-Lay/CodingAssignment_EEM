@@ -22,7 +22,7 @@ class Bird extends Animal{
 		System.out.println("I am flying");
 	}
 	
-	/* Implement for sing() method */
+	/* Implement for sing() method  */
 	public String sing(){
 		return "I am singing";
 	}
