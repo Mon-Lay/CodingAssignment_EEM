@@ -1,6 +1,6 @@
 package com.my.assignment;
 
-public class A_Solution4 {
+public class A_Solution4{
 	
 	public static void main(String[] args) {
 		Parrot parrot = new Parrot();
