@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class A_Solution2_Test {
+public class A_Solution2_Test{
 
 	@Test 
 	public void sayDuck(){
