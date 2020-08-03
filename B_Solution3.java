@@ -4,7 +4,7 @@ public class B_Solution3 {
 
 }
 
-class Dolphin extends Bird{
+class Dolphin extends Bird {
 	Duck duck = new Duck();
 	boolean swim = duck.swim;
 }
