@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class A_Solution4_Test {
+public class A_Solution4_Test{
 
 	@Test 
 	public void say(){
